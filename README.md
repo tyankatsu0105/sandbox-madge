@@ -7,3 +7,6 @@ github action作ってみると楽しそう
 cd sample-xxx
 npx madge --image image.jpg src/index.js
 ```
+
+## メモ
+- nodeに入っているパッケージは依存グラフ出ない
